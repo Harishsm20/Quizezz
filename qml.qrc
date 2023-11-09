@@ -1,0 +1,50 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Poppins/Poppins-Bold.ttf</file>
+        <file>settings.qml</file>
+        <file>technical/Technical_easy.qml</file>
+        <file>technical/Technical_medium.qml</file>
+        <file>technical/Technical_hard.qml</file>
+        <file>aptitude/aptieasy.qml</file>
+        <file>aptitude/aptihard.qml</file>
+        <file>aptitude/aptimedium.qml</file>
+        <file>verbal/verbeasy.qml</file>
+        <file>verbal/verbmedium.qml</file>
+        <file>verbal/verbhard.qml</file>
+        <file>assets/background1.mp3</file>
+        <file>assets/bg1.jpg</file>
+        <file>assets/celebration.gif</file>
+        <file>assets/intro.gif.crdownload</file>
+        <file>assets/istockphoto-857045822-612x612.jpg</file>
+        <file>assets/JAILER - Hukum Lyric Video _ Superstar Rajinikanth _ Sun Pictures _ Anirudh _ Nelson (mp3cut.net) (1).mp3</file>
+        <file>assets/quiz photo.jpg</file>
+        <file>assets/quizra.jpg</file>
+        <file>assets/test1.gif</file>
+        <file>DB/loginpage.qml</file>
+        <file>DB/registration.qml</file>
+        <file>levels/aptilevels.qml</file>
+        <file>levels/Clevels.qml</file>
+        <file>levels/verblevels.qml</file>
+        <file>pages/intropage.qml</file>
+        <file>pages/page1.qml</file>
+        <file>pages/quizgame.qml</file>
+        <file>main.qml</file>
+        <file>aptitude/Scoreapti.qml</file>
+        <file>technical/resultpage.qml</file>
+        <file>verbal/scoreverb.qml</file>
+        <file>quizgame.qml</file>
+        <file>assets/timer.gif</file>
+        <file>assets/bggif.gif</file>
+        <file>technical/scoreCEasy.qml</file>
+        <file>aptitude/resultapti.qml</file>
+        <file>highscore.qml</file>
+        <file>assets/newloginbg.jpg</file>
+        <file>verbal/resultverb.qml</file>
+        <file>certificate_page.qml</file>
+        <file>make_a_quiz.qml</file>
+        <file>assets/certificate.png</file>
+        <file>certi_download.qml</file>
+        <file>quizpage.qml</file>
+    </qresource>
+    <qresource prefix="/img"/>
+</RCC>
